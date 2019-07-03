@@ -50,7 +50,7 @@ const parseData = (data) => {
 }
 
 
-const sendEmail = (detourOn96,blabrotowb@gmail.com detourOn603) => {
+const sendEmail = (detourOn96, detourOn603) => {
 
 	var message = "";
 	if(detourOn603 && detourOn96){
